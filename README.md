@@ -17,7 +17,8 @@
 #4.Uses descriptive activity names to name the activities in the data set using the information files from raw data package
 #5.Appropriately labels the data set with descriptive variable names
 #6.creates the final tidy data set with the average of each variable for each activity and each subject
-#7Export the data set to a txt file
+#7.Export the data set to a txt file
 
 #SCript Documentation
-#The script file contains more detailed descriptions regarding the multiple sub-steps used to generate the final txt #file 
+#The script file contains more detailed descriptions regarding the multiple sub-steps used to generate the final 
+#txt file 
